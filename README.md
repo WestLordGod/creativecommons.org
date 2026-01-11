@@ -1,4 +1,12 @@
-# creativecommons.org
+Python 3.11 specified in:
+.github/workflows/django-app-coverage.yml
+.github/workflows/static-analysis.yml
+.pre-commit-config.yaml
+Dockerfile
+Pipfile
+pyproject.toml
+Django 4.2 (LTS)
+Pipfile# creativecommons.org
 
 Legacy legal code translations and general support issues
 
